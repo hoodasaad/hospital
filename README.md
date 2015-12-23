@@ -1,5 +1,4 @@
 # hospital
-introduction
 php project made by codeigniter
 contain
 management system for hospita
