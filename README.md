@@ -1,7 +1,7 @@
 # hospital
 php project made by codeigniter
 contain
-management system for hospita
+management system for hospital
 
 Made By :-
 Eng :- Mohamed Abd Elrazek
